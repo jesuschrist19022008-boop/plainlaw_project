@@ -1,6 +1,0 @@
-
-spacy
-transformers
-torch
-fastapi
-uvicorn
